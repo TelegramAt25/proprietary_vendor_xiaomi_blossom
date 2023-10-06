@@ -495,30 +495,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/blossom/proprietary/vendor/etc/permissions/com.fingerprints.extension.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/com.fingerprints.extension.xml \
     vendor/xiaomi/blossom/proprietary/vendor/etc/pm_test_item_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/pm_test_item_config.xml \
     vendor/xiaomi/blossom/proprietary/vendor/etc/sec_s3nrn82_rfreg.bin:$(TARGET_COPY_OUT_VENDOR)/etc/sec_s3nrn82_rfreg.bin \
-    vendor/xiaomi/blossom/proprietary/vendor/etc/security/cacerts_supl/111e6273.0:$(TARGET_COPY_OUT_VENDOR)/etc/security/cacerts_supl/111e6273.0 \
-    vendor/xiaomi/blossom/proprietary/vendor/etc/security/cacerts_supl/3ad48a91.0:$(TARGET_COPY_OUT_VENDOR)/etc/security/cacerts_supl/3ad48a91.0 \
-    vendor/xiaomi/blossom/proprietary/vendor/etc/security/cacerts_supl/7651b327.0:$(TARGET_COPY_OUT_VENDOR)/etc/security/cacerts_supl/7651b327.0 \
-    vendor/xiaomi/blossom/proprietary/vendor/etc/security/cacerts_supl/c542733d.0:$(TARGET_COPY_OUT_VENDOR)/etc/security/cacerts_supl/c542733d.0 \
-    vendor/xiaomi/blossom/proprietary/vendor/etc/security/cacerts_supl/f336e3d1.0:$(TARGET_COPY_OUT_VENDOR)/etc/security/cacerts_supl/f336e3d1.0 \
-    vendor/xiaomi/blossom/proprietary/vendor/etc/security/cacerts_supl/lab/18dc3a8d.0:$(TARGET_COPY_OUT_VENDOR)/etc/security/cacerts_supl/lab/18dc3a8d.0 \
-    vendor/xiaomi/blossom/proprietary/vendor/etc/security/cacerts_supl/lab/1bc5ca0c.0:$(TARGET_COPY_OUT_VENDOR)/etc/security/cacerts_supl/lab/1bc5ca0c.0 \
-    vendor/xiaomi/blossom/proprietary/vendor/etc/security/cacerts_supl/lab/1bc5ca0c.1:$(TARGET_COPY_OUT_VENDOR)/etc/security/cacerts_supl/lab/1bc5ca0c.1 \
-    vendor/xiaomi/blossom/proprietary/vendor/etc/security/cacerts_supl/lab/2cbfcc3a.0:$(TARGET_COPY_OUT_VENDOR)/etc/security/cacerts_supl/lab/2cbfcc3a.0 \
-    vendor/xiaomi/blossom/proprietary/vendor/etc/security/cacerts_supl/lab/35ef1c14.0:$(TARGET_COPY_OUT_VENDOR)/etc/security/cacerts_supl/lab/35ef1c14.0 \
-    vendor/xiaomi/blossom/proprietary/vendor/etc/security/cacerts_supl/lab/35ef1c14.1:$(TARGET_COPY_OUT_VENDOR)/etc/security/cacerts_supl/lab/35ef1c14.1 \
-    vendor/xiaomi/blossom/proprietary/vendor/etc/security/cacerts_supl/lab/35ef1c14.2:$(TARGET_COPY_OUT_VENDOR)/etc/security/cacerts_supl/lab/35ef1c14.2 \
-    vendor/xiaomi/blossom/proprietary/vendor/etc/security/cacerts_supl/lab/35ef1c14.3:$(TARGET_COPY_OUT_VENDOR)/etc/security/cacerts_supl/lab/35ef1c14.3 \
-    vendor/xiaomi/blossom/proprietary/vendor/etc/security/cacerts_supl/lab/35ef1c14.4:$(TARGET_COPY_OUT_VENDOR)/etc/security/cacerts_supl/lab/35ef1c14.4 \
-    vendor/xiaomi/blossom/proprietary/vendor/etc/security/cacerts_supl/lab/35ef1c14.5:$(TARGET_COPY_OUT_VENDOR)/etc/security/cacerts_supl/lab/35ef1c14.5 \
-    vendor/xiaomi/blossom/proprietary/vendor/etc/security/cacerts_supl/lab/35ef1c14.6:$(TARGET_COPY_OUT_VENDOR)/etc/security/cacerts_supl/lab/35ef1c14.6 \
-    vendor/xiaomi/blossom/proprietary/vendor/etc/security/cacerts_supl/lab/35ef1c14.7:$(TARGET_COPY_OUT_VENDOR)/etc/security/cacerts_supl/lab/35ef1c14.7 \
-    vendor/xiaomi/blossom/proprietary/vendor/etc/security/cacerts_supl/lab/586933d9.0:$(TARGET_COPY_OUT_VENDOR)/etc/security/cacerts_supl/lab/586933d9.0 \
-    vendor/xiaomi/blossom/proprietary/vendor/etc/security/cacerts_supl/lab/66272d0d.0:$(TARGET_COPY_OUT_VENDOR)/etc/security/cacerts_supl/lab/66272d0d.0 \
-    vendor/xiaomi/blossom/proprietary/vendor/etc/security/cacerts_supl/lab/6f1dbe5e.0:$(TARGET_COPY_OUT_VENDOR)/etc/security/cacerts_supl/lab/6f1dbe5e.0 \
-    vendor/xiaomi/blossom/proprietary/vendor/etc/security/cacerts_supl/lab/b5805141.0:$(TARGET_COPY_OUT_VENDOR)/etc/security/cacerts_supl/lab/b5805141.0 \
-    vendor/xiaomi/blossom/proprietary/vendor/etc/security/cacerts_supl/lab/b805b58a.0:$(TARGET_COPY_OUT_VENDOR)/etc/security/cacerts_supl/lab/b805b58a.0 \
-    vendor/xiaomi/blossom/proprietary/vendor/etc/security/cacerts_supl/lab/ed7b215e.0:$(TARGET_COPY_OUT_VENDOR)/etc/security/cacerts_supl/lab/ed7b215e.0 \
-    vendor/xiaomi/blossom/proprietary/vendor/etc/security/cacerts_supl/lab/ef4b31e6.0:$(TARGET_COPY_OUT_VENDOR)/etc/security/cacerts_supl/lab/ef4b31e6.0 \
     vendor/xiaomi/blossom/proprietary/vendor/etc/slp_conf:$(TARGET_COPY_OUT_VENDOR)/etc/slp_conf \
     vendor/xiaomi/blossom/proprietary/vendor/etc/smsdbvisitor.xml:$(TARGET_COPY_OUT_VENDOR)/etc/smsdbvisitor.xml \
     vendor/xiaomi/blossom/proprietary/vendor/etc/special_pws_channel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/special_pws_channel.xml \
