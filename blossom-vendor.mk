@@ -26,14 +26,10 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/blossom/proprietary/lib64/libmtkavenhancements.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libmtkavenhancements.so \
     vendor/xiaomi/blossom/proprietary/lib64/libvcodec_cap.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libvcodec_cap.so \
     vendor/xiaomi/blossom/proprietary/lib64/libvcodec_capenc.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libvcodec_capenc.so \
-    vendor/xiaomi/blossom/proprietary/system_ext/bin/kpoc_charger:$(TARGET_COPY_OUT_SYSTEM_EXT)/bin/kpoc_charger \
-    vendor/xiaomi/blossom/proprietary/system_ext/etc/init/kpoc_charger.rc:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/init/kpoc_charger.rc \
     vendor/xiaomi/blossom/proprietary/system_ext/lib/vendor.mediatek.hardware.dmc@1.1.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/vendor.mediatek.hardware.dmc@1.1.so \
     vendor/xiaomi/blossom/proprietary/system_ext/lib/vendor.mediatek.hardware.dmc@1.2.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/vendor.mediatek.hardware.dmc@1.2.so \
     vendor/xiaomi/blossom/proprietary/system_ext/lib/vendor.mediatek.hardware.mtkradioex@2.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/vendor.mediatek.hardware.mtkradioex@2.0.so \
     vendor/xiaomi/blossom/proprietary/system_ext/lib/vendor.mediatek.hardware.videotelephony@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/vendor.mediatek.hardware.videotelephony@1.0.so \
-    vendor/xiaomi/blossom/proprietary/system_ext/lib/libshowlogo.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/libshowlogo.so \
-    vendor/xiaomi/blossom/proprietary/system_ext/lib/libsysenv_system.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/libsysenv_system.so \
     vendor/xiaomi/blossom/proprietary/system_ext/lib64/vendor.mediatek.hardware.dmc@1.1.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.mediatek.hardware.dmc@1.1.so \
     vendor/xiaomi/blossom/proprietary/system_ext/lib64/vendor.mediatek.hardware.dmc@1.2.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.mediatek.hardware.dmc@1.2.so \
     vendor/xiaomi/blossom/proprietary/system_ext/lib64/vendor.mediatek.hardware.mtkradioex@2.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.mediatek.hardware.mtkradioex@2.0.so \
