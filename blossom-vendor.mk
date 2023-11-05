@@ -364,7 +364,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/blossom/proprietary/vendor/etc/audio_param_x/VolumeGainMap_ParamUnitDesc.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_param_x/VolumeGainMap_ParamUnitDesc.xml \
     vendor/xiaomi/blossom/proprietary/vendor/etc/audio_param_x/Volume_AudioParam.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_param_x/Volume_AudioParam.xml \
     vendor/xiaomi/blossom/proprietary/vendor/etc/audio_param_x/Volume_ParamUnitDesc.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_param_x/Volume_ParamUnitDesc.xml \
-    vendor/xiaomi/blossom/proprietary/vendor/etc/aurisys_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/aurisys_config.xml \
     vendor/xiaomi/blossom/proprietary/vendor/etc/aurisys_param/Speech_AudioParam.xml:$(TARGET_COPY_OUT_VENDOR)/etc/aurisys_param/Speech_AudioParam.xml \
     vendor/xiaomi/blossom/proprietary/vendor/etc/camera/golden.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/golden.bin \
     vendor/xiaomi/blossom/proprietary/vendor/etc/camera/golden2.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/golden2.bin \
