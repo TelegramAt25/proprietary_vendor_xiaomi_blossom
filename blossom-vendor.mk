@@ -147,6 +147,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/blossom/proprietary/vendor/etc/MNL_Config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/MNL_Config.xml \
     vendor/xiaomi/blossom/proprietary/vendor/etc/apdb/APDB_MT6765_S01__W2043:$(TARGET_COPY_OUT_VENDOR)/etc/apdb/APDB_MT6765_S01__W2043 \
     vendor/xiaomi/blossom/proprietary/vendor/etc/apdb/APDB_MT6765_S01__W2043_ENUM:$(TARGET_COPY_OUT_VENDOR)/etc/apdb/APDB_MT6765_S01__W2043_ENUM \
+    vendor/xiaomi/blossom/proprietary/vendor/etc/aurisys_param/Speech_AudioParam.xml:$(TARGET_COPY_OUT_VENDOR)/etc/aurisys_param/Speech_AudioParam.xml \
     vendor/xiaomi/blossom/proprietary/vendor/etc/camera/golden.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/golden.bin \
     vendor/xiaomi/blossom/proprietary/vendor/etc/camera/golden2.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/golden2.bin \
     vendor/xiaomi/blossom/proprietary/vendor/etc/camera/golden3.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/golden3.bin \
