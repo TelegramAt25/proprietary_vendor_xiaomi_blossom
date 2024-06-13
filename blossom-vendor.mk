@@ -120,7 +120,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/blossom/proprietary/vendor/bin/netdagent:$(TARGET_COPY_OUT_VENDOR)/bin/netdagent \
     vendor/xiaomi/blossom/proprietary/vendor/bin/netdc:$(TARGET_COPY_OUT_VENDOR)/bin/netdc \
     vendor/xiaomi/blossom/proprietary/vendor/bin/nvram_daemon:$(TARGET_COPY_OUT_VENDOR)/bin/nvram_daemon \
-    vendor/xiaomi/blossom/proprietary/vendor/bin/rttv:$(TARGET_COPY_OUT_VENDOR)/bin/rttv \
     vendor/xiaomi/blossom/proprietary/vendor/bin/sensors_test:$(TARGET_COPY_OUT_VENDOR)/bin/sensors_test \
     vendor/xiaomi/blossom/proprietary/vendor/bin/teei_daemon:$(TARGET_COPY_OUT_VENDOR)/bin/teei_daemon \
     vendor/xiaomi/blossom/proprietary/vendor/bin/thermal:$(TARGET_COPY_OUT_VENDOR)/bin/thermal \
@@ -195,7 +194,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/blossom/proprietary/vendor/etc/init/android.hardware.keymaster@4.0-service.beanpod.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.keymaster@4.0-service.beanpod.rc \
     vendor/xiaomi/blossom/proprietary/vendor/etc/init/android.hardware.sensors@2.0-service-mediatek.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.sensors@2.0-service-mediatek.rc \
     vendor/xiaomi/blossom/proprietary/vendor/etc/init/android.hardware.thermal@2.0-service.mtk.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.thermal@2.0-service.mtk.rc \
-    vendor/xiaomi/blossom/proprietary/vendor/etc/init/bootperf.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/bootperf.rc \
     vendor/xiaomi/blossom/proprietary/vendor/etc/init/camerahalserver.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/camerahalserver.rc \
     vendor/xiaomi/blossom/proprietary/vendor/etc/init/dmc_core.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/dmc_core.rc \
     vendor/xiaomi/blossom/proprietary/vendor/etc/init/fuelgauged_init.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/fuelgauged_init.rc \
@@ -746,10 +744,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/blossom/proprietary/vendor/lib/vendor.mediatek.hardware.dmc@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.dmc@1.0.so \
     vendor/xiaomi/blossom/proprietary/vendor/lib/vendor.mediatek.hardware.dmc@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.dmc@1.1.so \
     vendor/xiaomi/blossom/proprietary/vendor/lib/vendor.mediatek.hardware.dmc@1.2.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.dmc@1.2.so \
-    vendor/xiaomi/blossom/proprietary/vendor/lib/vendor.mediatek.hardware.engineermode@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.engineermode@1.0.so \
-    vendor/xiaomi/blossom/proprietary/vendor/lib/vendor.mediatek.hardware.engineermode@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.engineermode@1.1.so \
-    vendor/xiaomi/blossom/proprietary/vendor/lib/vendor.mediatek.hardware.engineermode@1.2.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.engineermode@1.2.so \
-    vendor/xiaomi/blossom/proprietary/vendor/lib/vendor.mediatek.hardware.engineermode@1.3.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.engineermode@1.3.so \
     vendor/xiaomi/blossom/proprietary/vendor/lib/vendor.mediatek.hardware.gpu@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.gpu@1.0.so \
     vendor/xiaomi/blossom/proprietary/vendor/lib/vendor.mediatek.hardware.keymaster_attestation@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.keymaster_attestation@1.0.so \
     vendor/xiaomi/blossom/proprietary/vendor/lib/vendor.mediatek.hardware.keymaster_attestation@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.keymaster_attestation@1.1.so \
