@@ -38,7 +38,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/blossom/proprietary/vendor/bin/hw/android.hardware.thermal@2.0-service.mtk:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.thermal@2.0-service.mtk \
     vendor/xiaomi/blossom/proprietary/vendor/bin/hw/camerahalserver:$(TARGET_COPY_OUT_VENDOR)/bin/hw/camerahalserver \
     vendor/xiaomi/blossom/proprietary/vendor/bin/hw/mtkfusionrild:$(TARGET_COPY_OUT_VENDOR)/bin/hw/mtkfusionrild \
-    vendor/xiaomi/blossom/proprietary/vendor/bin/hw/vendor.focaltech.fingerprint@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.focaltech.fingerprint@1.0-service \
     vendor/xiaomi/blossom/proprietary/vendor/bin/hw/vendor.mediatek.hardware.gpu@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.mediatek.hardware.gpu@1.0-service \
     vendor/xiaomi/blossom/proprietary/vendor/bin/hw/vendor.mediatek.hardware.keymaster_attestation@1.1-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.mediatek.hardware.keymaster_attestation@1.1-service \
     vendor/xiaomi/blossom/proprietary/vendor/bin/hw/vendor.mediatek.hardware.mms@1.5-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.mediatek.hardware.mms@1.5-service \
@@ -222,7 +221,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/blossom/proprietary/vendor/etc/meow.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/meow.cfg \
     vendor/xiaomi/blossom/proprietary/vendor/etc/mtk_omx_core.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/mtk_omx_core.cfg \
     vendor/xiaomi/blossom/proprietary/vendor/etc/nfc/nfc_whitelist.properties:$(TARGET_COPY_OUT_VENDOR)/etc/nfc/nfc_whitelist.properties \
-    vendor/xiaomi/blossom/proprietary/vendor/etc/permissions/com.fingerprints.extension.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/com.fingerprints.extension.xml \
     vendor/xiaomi/blossom/proprietary/vendor/etc/pm_test_item_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/pm_test_item_config.xml \
     vendor/xiaomi/blossom/proprietary/vendor/etc/sec_s3nrn82_rfreg.bin:$(TARGET_COPY_OUT_VENDOR)/etc/sec_s3nrn82_rfreg.bin \
     vendor/xiaomi/blossom/proprietary/vendor/etc/slp_conf:$(TARGET_COPY_OUT_VENDOR)/etc/slp_conf \
@@ -272,7 +270,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/blossom/proprietary/vendor/firmware/soc3_0_ram_mcu_1_1_hdr.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/soc3_0_ram_mcu_1_1_hdr.bin \
     vendor/xiaomi/blossom/proprietary/vendor/firmware/soc3_0_ram_mcu_1a_1_hdr.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/soc3_0_ram_mcu_1a_1_hdr.bin \
     vendor/xiaomi/blossom/proprietary/vendor/firmware/soc3_0_ram_mcu_e1_hdr.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/soc3_0_ram_mcu_e1_hdr.bin \
-    vendor/xiaomi/blossom/proprietary/vendor/lib/com.fingerprints.extension@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.fingerprints.extension@1.0.so \
     vendor/xiaomi/blossom/proprietary/vendor/lib/egl/egl.cfg:$(TARGET_COPY_OUT_VENDOR)/lib/egl/egl.cfg \
     vendor/xiaomi/blossom/proprietary/vendor/lib/egl/libEGL_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib/egl/libEGL_mtk.so \
     vendor/xiaomi/blossom/proprietary/vendor/lib/egl/libGLES_meow.so:$(TARGET_COPY_OUT_VENDOR)/lib/egl/libGLES_meow.so \
@@ -308,8 +305,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/blossom/proprietary/vendor/lib/hw/audio.primary.mt6765.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.mt6765.so \
     vendor/xiaomi/blossom/proprietary/vendor/lib/hw/audio.r_submix.mt6765.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.r_submix.mt6765.so \
     vendor/xiaomi/blossom/proprietary/vendor/lib/hw/audio.usb.mt6765.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.usb.mt6765.so \
-    vendor/xiaomi/blossom/proprietary/vendor/lib/hw/fingerprint.focaltech.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/fingerprint.focaltech.default.so \
-    vendor/xiaomi/blossom/proprietary/vendor/lib/hw/fingerprint.fpc.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/fingerprint.fpc.default.so \
     vendor/xiaomi/blossom/proprietary/vendor/lib/hw/gatekeeper.beanpod.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gatekeeper.beanpod.so \
     vendor/xiaomi/blossom/proprietary/vendor/lib/hw/gps.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gps.default.so \
     vendor/xiaomi/blossom/proprietary/vendor/lib/hw/gralloc.rogue.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gralloc.rogue.so \
@@ -892,7 +887,6 @@ PRODUCT_PACKAGES += \
     mediatek-telecom-common \
     mediatek-telephony-base \
     mediatek-telephony-common \
-    com.fingerprints.extension \
     manifest_android.hardware.drm@1.4-service.widevine \
     vendor.mediatek.hardware.gpu@1.0-service \
     vtservice_hidl \

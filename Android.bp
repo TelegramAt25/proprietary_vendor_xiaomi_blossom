@@ -413,13 +413,6 @@ dex_import {
 	jars: ["proprietary/framework/mediatek-telephony-common.jar"],
 }
 
-dex_import {
-	name: "com.fingerprints.extension",
-	owner: "xiaomi",
-	jars: ["proprietary/vendor/framework/com.fingerprints.extension.jar"],
-	soc_specific: true,
-}
-
 prebuilt_etc_xml {
 	name: "manifest_android.hardware.drm@1.4-service.widevine",
 	owner: "xiaomi",
